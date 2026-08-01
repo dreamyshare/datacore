@@ -5,7 +5,7 @@
 > 开源的企业级 AI 数据平台 —— 把企业数据变成 AI 能力，让任何 AI 应用都能在你的合规边界内安全访问数据。
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![Open Core](https://img.shields.io/badge/Model-Open--Core-green.svg)](https://github.com/datacore-ai/datacore)
+[![Open Core](https://img.shields.io/badge/Model-Open--Core-green.svg)](https://github.com/dreamyshare/datacore)
 [![MCP](https://img.shields.io/badge/Protocol-MCP-8B5CF6.svg)](https://modelcontextprotocol.io)
 
 ---
@@ -44,7 +44,7 @@ DataCore 的定位就是企业数据与 AI 应用之间的**安全连接层**：
 ### 1. 克隆并启动
 
 ```bash
-git clone https://github.com/datacore-ai/datacore.git
+git clone https://github.com/dreamyshare/datacore.git
 cd datacore
 docker compose up -d
 ```
@@ -154,9 +154,9 @@ DataCore 采用 Open-Core 模式：
 
 ## 联系与社区
 
-- GitHub Issues：https://github.com/datacore-ai/datacore/issues
-- 文档：https://docs.datacore.ai （建设中）
-- 邮箱：hello@datacore.ai
+- GitHub Issues：https://github.com/dreamyshare/datacore/issues
+- 文档：https://datacore.dreamyshare.com （建设中）
+- 邮箱：dev@dreamyshare..com
 
 ---
 
